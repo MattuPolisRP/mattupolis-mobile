@@ -2,8 +2,8 @@
   "version": "1.0.2",
   "apkUrl": "https://github.com/MattuPolisRP/mattupolis-mobile/releases/download/v1.0.1/LeonLauncher.apk",
   "modpackUrl": "https://github.com/MattuPolisRP/mattupolis-mobile/releases/download/v1.0.1/modpack-mobile.zip",
-  "modpackVersion": "1",
+  "modpackVersion": "2",
   "forgeUrl": "https://github.com/MattuPolisRP/mattupolis-mobile/releases/download/1.0.0/forge-data.zip",
   "forgeVersion": "1.16.5-forge-36.2.34",
-  "notes": "Fix crash libglfw, fix gameDir profile, multiplayer deblocat"
+  "notes": "Scos Oculus si Embeddium - incompatibile cu PowerVR GPU"
 }
